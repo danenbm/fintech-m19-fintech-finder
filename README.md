@@ -46,7 +46,11 @@ To start the Fintech Finder application, run `streamlit run fintech_finder.py` a
 
 ---
 
-## Example
+## Examples
+
+Here is an example of what the Fintech Finder app window looks like after successfully sending a transaction to a Fintech professional:
+
+![App window after transaction](Images/app_window_after_transaction.png)
 
 Here is an example of customer address balance and history, shown on the Kovan Etherscan blockchain explorer, after Fintech Finder was used to sign a transaction and send funds to a Fintech professional:
 
