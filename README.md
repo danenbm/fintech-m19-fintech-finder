@@ -1,6 +1,6 @@
 # Fintech Finder
 
-This repo contains an prototype application that can be used to find, review, and select Fintech professionals.  The customer of this application can select and send cryptocurrency payments to their selected FinTech professional.
+This repo contains an prototype application that can be used to find, review, and select Fintech professionals.  The customer of this application can then send cryptocurrency payments to their selected FinTech professional.
 
 The application enables the customer to perform the following tasks:
 * Generate an Ethereum account instance by using the customer's mnemonic seed phrase in their .env file.
